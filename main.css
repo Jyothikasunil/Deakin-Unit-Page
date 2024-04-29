@@ -16,6 +16,7 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+<<<<<<< HEAD
 
 th,
 td {
@@ -24,6 +25,12 @@ td {
   border-bottom: 1px solid #ddd;
   font-family: Arial
 }
+=======
+div {
+  background-color: darkcyan;
+  text-align: right;
+ }
+>>>>>>> 92622da5e2170a04a4fcd254f87936c20dcaf809
 
 tr:nth-child(odd) {
   background-color: #f2f2f2;
